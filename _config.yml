@@ -22,7 +22,7 @@ repository               : "jeanbaptisteminani/jeanbaptisteminani.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Jean Baptiste M."
   pronouns         : # example: "Dr."  
   bio              : "Jean Baptiste Minani is a software engineering researcher and practitioner with over 14 years of industry experience. His work bridges academia and real-world systems, focusing on software testing, IoT systems, and quality assurance. He holds a PhD in Software Engineering and has led and contributed to both academic research and large-scale industry projects."
