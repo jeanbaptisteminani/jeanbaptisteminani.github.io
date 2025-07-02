@@ -3,7 +3,7 @@ permalink: /
 title: "Jean Baptiste Minani's Personal Website"
 author_profile: true
 redirect_from:
-   - /bout/
+   - /about/
    - /about.html
 ---
 ## Research Statement
