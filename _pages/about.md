@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Jean Baptiste Minani's Personal Website"
+author_profile: true
+redirect_from:
+   - /bout/
+   - /about.html
+---
 ## Research Statement
 My research lies at the intersection of software engineering and artificial intelligence, with a strong focus on software testing, requirements engineering, and system architectures. I am particularly interested in leveraging Large Language Models (LLMs) and Knowledge Graphs to automate test generation and system validation from natural language documents such as use case specifications and product manuals. During my Ph.D. at Concordia University, I addressed real-world challenges in testing complex IoT and government systems by proposing foundational taxonomies, empirically validated frameworks, and novel test automation strategies. 
 
